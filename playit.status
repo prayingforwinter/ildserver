@@ -1,3882 +1,1267 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728557894435 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728579991599 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557897675 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728579995261 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557900982 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728579998502 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557904242 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580001849 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557907486 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580005096 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557910735 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580008430 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557913979 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580011661 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557917223 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580014914 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557922265 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580018263 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557925502 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580021603 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557928756 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580024851 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557932012 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580028111 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557935281 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580031361 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557938536 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580034618 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557942331 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580037873 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557945641 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580041117 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557948957 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580044455 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557952198 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580047791 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557955440 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580051120 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557958753 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580054459 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557961975 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580057875 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557965284 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580061206 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557969585 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580064548 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557972812 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580067795 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557976057 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580071042 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557979373 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580074288 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557982601 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580077540 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557985849 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580081145 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557989161 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580084389 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557992475 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580087661 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557995727 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580090907 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728557998952 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580094253 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558002179 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580097585 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558005405 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580100933 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558008649 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580104267 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558011877 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580107521 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558015106 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580110766 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558018348 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580114118 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558021607 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580117363 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558024852 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580120607 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558028099 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580123942 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558031331 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580127279 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558034578 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580130531 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558037886 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580133773 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558041184 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580137017 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558044434 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580140268 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558047694 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580143518 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558051003 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580146854 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558054255 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580150103 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558057480 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580153346 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558061437 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580156610 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558064661 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580159844 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558067908 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580163078 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558071175 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580166309 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558074416 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580169541 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558077736 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580172863 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558080959 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580176106 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558084206 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580179396 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558087450 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580182633 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558090758 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580185880 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558093999 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580189120 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558097239 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580192356 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558100488 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580195606 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558103727 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580198836 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558108329 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580202077 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558113541 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580205400 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558118912 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580208647 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558122141 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580211879 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558125386 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580215320 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558128617 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580218659 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558131852 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580221993 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558135083 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580225333 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558138328 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580228668 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558143065 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580232000 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558146294 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580235254 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558149524 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580238502 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558152758 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580241840 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558156006 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580245172 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558159250 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580248418 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558162481 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580251671 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558165708 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580255006 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558168980 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580258346 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558172228 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580261625 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558176717 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580264866 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558180036 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580268109 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558183276 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580271337 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558188623 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580274606 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558191859 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580277873 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558195168 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580281103 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558200606 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580284450 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558203846 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580287709 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558207080 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580290968 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558210333 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580294337 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558213560 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580297808 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558216791 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580301057 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558220032 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580304305 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558225003 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580307551 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558228225 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580310814 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558231713 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580314062 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558234949 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580317298 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558238179 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580320521 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558241436 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580323767 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558244664 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580327007 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558247898 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580330242 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558251121 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580333485 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558254353 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580337160 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558258737 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580340491 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558261975 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580343888 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558265210 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580347877 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558268438 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580351248 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558271665 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580354495 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558274921 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580357750 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558278146 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580361093 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558281369 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580364325 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558284589 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580367587 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558287820 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580370815 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558291052 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580374053 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558294362 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580377291 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558297594 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580380527 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558300833 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580383757 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558304061 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580387000 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558307294 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580390232 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558310642 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580395212 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558313867 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580398469 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558317099 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580401718 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558320336 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580405044 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558323560 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580408279 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558328200 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580411512 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558331462 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580414752 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558334692 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580417998 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558337941 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580421237 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558341168 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580424467 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558344416 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580427705 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558347646 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580430988 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558350883 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580434218 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558354115 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580437483 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558357368 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580440718 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558360639 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580443950 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558363887 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580447200 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558367147 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580450456 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558370376 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580453696 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558373612 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580456928 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558376839 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580460156 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558380066 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580463389 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558383315 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580466617 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558386574 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580469843 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558391612 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580473080 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558394854 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580476331 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558398086 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580479561 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558401316 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580482803 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558404557 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580486054 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558407786 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580489326 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558411013 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580492554 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558415066 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580495806 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558418302 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1728580505295 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558421552 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580508541 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558424784 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580511796 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558428019 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580515061 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558431250 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580518309 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558435074 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580521606 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558438303 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580524845 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558442689 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580528095 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558445931 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580531335 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558449164 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580534578 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558452413 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580537836 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558455655 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580541088 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558458940 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580544332 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558462185 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580547586 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558465434 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580550832 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558468665 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580554075 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558471898 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580557308 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558475126 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580560571 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558478361 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580563822 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558481590 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580567074 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558484833 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580570339 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558488065 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580573586 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558491296 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580576838 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558494546 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580580078 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558497794 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580583324 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558501042 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580586575 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
 boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
 archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558504274 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558507517 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558511129 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558514370 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558517625 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558520874 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558524122 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558527356 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558530580 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558533849 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558537092 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558540333 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558543568 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558546822 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558550052 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558553310 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558556545 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558559790 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558564498 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558567746 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558570995 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558574231 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558578391 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558581615 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558584858 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558589597 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558592827 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558596053 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558599285 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558602529 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558606437 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558609941 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558613185 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558616464 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558619718 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558622954 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558626203 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558629509 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558632741 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558635968 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558639196 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558642446 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558645675 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558648927 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558652173 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558655415 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558658654 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558661896 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558665137 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558668385 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558671618 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558674859 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558678092 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558681342 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558684585 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558687828 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558691053 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558694295 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558697533 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558700798 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558704047 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558707272 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558710510 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558713744 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558716975 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558720218 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558723457 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558726716 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558729943 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558733191 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558736450 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558739696 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558743391 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558747476 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558750704 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558753965 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558757189 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558760449 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558763683 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558766914 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558770159 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558773388 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558776622 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558779953 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558783318 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558787722 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558790979 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558794310 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558797566 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558800811 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558804066 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558807296 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558810539 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558813772 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558817006 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558820237 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558825367 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558828699 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558831950 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558835193 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558838432 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558841976 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558845211 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558848450 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558851675 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558854926 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558858163 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558861473 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558864715 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558867968 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558871227 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558874473 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558877817 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558881065 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558884335 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558887560 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558890796 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558894036 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558897269 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558900520 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558903772 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558907066 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558910317 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558913567 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558916807 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558920036 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558923266 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558926507 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558929748 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558932991 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558936247 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558939472 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558942713 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558945969 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558949306 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558952640 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558955863 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558959114 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558962353 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558965685 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558968912 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558972141 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558975379 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558978631 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558983116 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558986340 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558989592 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558992835 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558996088 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728558999325 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559002553 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559005914 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559009215 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559012473 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559015703 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559018945 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559022204 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559025438 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559028662 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559031907 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559035133 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559038365 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559041600 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559044847 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559048496 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559051868 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559056308 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559059647 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559062876 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559066214 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559069442 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559072793 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559076018 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559079247 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559082488 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559086416 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559089638 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559092894 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559096543 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559099777 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559103016 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559106247 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559109474 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559112710 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559116134 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559119370 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559122603 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559125828 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559129072 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559132320 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559135550 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559138890 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559142155 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559145401 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559149296 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559153207 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559156613 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559159856 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559163100 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559166339 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559169742 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559173038 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559176269 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559179628 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559182873 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559186105 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559189352 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559192583 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559195816 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559199052 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559202292 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559205527 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559208769 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559211998 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559215226 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559218481 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559221725 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559224975 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559228219 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559231459 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559234699 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559237933 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559241267 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559244495 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559247721 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559250965 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559254195 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559257424 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559260653 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559263884 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559267121 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559270352 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559273580 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559276841 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559280078 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559283331 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559286821 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559290051 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559293412 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559296637 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559299879 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559303119 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559306368 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559309683 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559312926 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559316155 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559319387 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559322754 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559325980 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559329228 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559332570 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559335906 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559339836 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559343068 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559346300 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559349640 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559352882 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559356150 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559359399 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559362646 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559365876 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559369109 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559372353 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559375593 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559378835 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559382192 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559385420 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559388656 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559391884 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559395222 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559398708 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559402134 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559405363 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559408593 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559411834 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559415093 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559418321 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559421659 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559425851 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559429197 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559432426 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559435655 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559438905 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559442159 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559445398 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559448660 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559451901 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559455138 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559458374 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559461601 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559464831 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559468059 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559471305 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559474543 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559477778 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559481009 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559484239 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559487491 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559490717 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559494049 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559497278 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559500510 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559503749 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559506995 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559510224 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559513453 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559516683 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559519924 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559523166 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559526415 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559529657 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559532889 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559536129 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559539366 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559542598 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559545843 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559549113 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559552373 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559555637 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559559749 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559562994 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559566244 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559569491 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559572748 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559575989 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559579236 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559582465 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559585694 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559588920 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559592171 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559595412 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559598657 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559601907 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559605161 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559608403 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559611661 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559614922 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559618175 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559621430 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559624678 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559627905 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559515876 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559519122 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559522371 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559525609 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559528851 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559532091 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559535326 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559538555 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559541804 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559545033 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559548268 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559551496 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559554757 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559558475 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559561708 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559564942 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559568168 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559571408 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559574646 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559577877 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559581120 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559584385 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559587616 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559590848 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559594094 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559597351 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559602073 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559605312 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559610372 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559615003 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559618230 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559621465 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559624703 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-risk-orchestra.gl.at.ply.gg:1416 => 127.0.0.1:1416 (proto: Udp, port count: 1)
-boy-frequently.gl.at.ply.gg:11890 => 127.0.0.1:25595 (disabled)
-archive-goes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728559627953 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728580589826 tunnel running, 3 tunnels registered
 
 
 TUNNELS
